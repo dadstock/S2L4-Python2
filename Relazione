@@ -1,0 +1,13 @@
+ENG 
+
+In the written code, we can see how Python, through the input functions, if-elif-else statements, and also through equality operators, is able to calculate the perimeter of the geometric shapes chosen by the user. 
+Through the first input, the code receives a number that corresponds to the chosen figure for which calculations will be made. Then the if cycle will begin, and depending on what has been assigned to the 
+variable 'choice', a specific script will run. If the input given is not present in the if and elif cycles, the else cycle will start, prompting the user to provide a specific input (1, 2, or 3).  We also use 
+the 'f' operator to insert variables within the string using curly braces {}.
+
+ITA
+
+Nel codice scritto possiamo vedere, come Python attraverso le funzioni input, if elif else, e tramite anche gli operatori di uguaglianza riesca a calcolare il perimetro delle figure geometriche scelte dall'utente. 
+Tramite il primo input, il codice riceve un numero che sarà uguale alla figura scelta su cui fare i calcoli. Dopodiché il ciclo if inizierà e a seconda a cosa è stata assegnata la variabile "scelta" 
+partirà un determinato script. Se però l'input dato non è presente nei cicli if ed elif, partirà il ciclo else, che chiederà all'utente di fornire un dato specifico (1,2,3). Usiamo anche l'operatore "f", per inserire 
+delle variabili all'interno della stringa con le parentesi graffe {}.
